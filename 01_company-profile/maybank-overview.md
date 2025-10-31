@@ -12,9 +12,21 @@ Maybank Singapore is a subsidiary of Malayan Banking Berhad (Maybank), one of So
 ## 🌱 Sustainability Positioning
 Maybank has made public commitments to sustainability at the group level, including:
 - Net-zero carbon emissions by 2050
-- Integration of ESG factors into lending and investment decisions
-- Support for community development and financial inclusion
+- Mobilising RM80 Billion in Sustainable Financing
+- Clocking 1 million hours per annum on sustainability
+- Delivering 1000 significant SDG-related outcomes by 2025
+- Improving the Lives of two million household across ASEAN by 2025
 
+## 🌱 ESG Positioning
+Maybank has established its position in six industries:
+- Palm Oil
+- Forestry and Logging
+- Construction and Real Estate
+- Power
+- Oil and Gas
+- Mining
+
+  
 However, **Maybank Singapore’s circular economy efforts remain limited and underreported**, especially compared to regional leaders like DBS and OCBC. This presents an opportunity to design a tailored strategy that enhances circularity in its portfolio and operations.
 
 ## 🔍 Why Maybank for This Project?
